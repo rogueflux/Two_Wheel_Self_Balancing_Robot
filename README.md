@@ -109,7 +109,7 @@ Torque demand: 5% deviation
 ## 🔗 Related Work
 
 - [LQR Theory](https://mathworks.com/help/control/ug/lqr.html)
-- [Simscape Multibody Docs](https://mathworks.com/help/sm)[^1]
+- [Simscape Multibody Docs](https://mathworks.com/help/sm)
 - [Inverted Pendulum Benchmark](https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SimulinkModeling)
 
 
