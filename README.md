@@ -115,7 +115,7 @@ Torque demand: 5% deviation
 
 ## 📝 Acknowledgments
 
-Built during internship prep at Tata Advanced Systems. Leverages user's expertise in MATLAB/Simulink, LQR, Kalman filtering, and Simscape modeling.
+Leverages user's expertise in MATLAB/Simulink, LQR, Kalman filtering, and Simscape modeling.
 
 ## 📄 License
 
