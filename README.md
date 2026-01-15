@@ -58,25 +58,6 @@ run('linearization_script.m')
 sim('inverted_pendulum_sim.slx')
 ```
 
-
-## 📁 Files Structure
-
-```
-├── models/
-│   ├── inverted_pendulum_sim.slx      # Main Simulink model
-│   └── linear_validation.slx          # SS comparison
-├── controllers/
-│   ├── design_lqr.m                   # LQR design script [file:397]
-│   ├── design_kalman.m                # Kalman filter [file:398]
-│   └── linearization_script.m         # SS model gen [file:399]
-├── results/
-│   ├── animation_balanced.mp4         # Final demo [file:405]
-│   └── scopes_lqr_kf.png              # Performance plots
-└── docs/
-    └── joint_tuning.pdf               # Parameter guide
-```
-
-
 ## 🔧 Key Implementation Details
 
 ### 1. Revolute Joint Configuration
