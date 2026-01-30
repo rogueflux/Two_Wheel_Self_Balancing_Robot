@@ -119,6 +119,6 @@ Leverages user's expertise in MATLAB/Simulink, LQR, Kalman filtering, and Simsca
 
 ## 📄 License
 
-MIT License - Free for academic/industry use.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
 
 ***
